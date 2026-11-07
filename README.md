@@ -45,4 +45,4 @@ Reconnaissance, then SQL injection and path traversal, then webshell upload, the
 - Presenting findings the way a SOC analyst would
 
 ## Full Report
-See `splunk.pdf` in this repository for the full walkthrough with screenshots.
+See [splunk (1).pdf](<splunk (1).pdf>) in this repository for the full walkthrough with screenshots.
